@@ -17,7 +17,7 @@ $boost,site=en.wikiversity.org
 $boost,site=en.wikibooks.org
 $boost,site=en.wikiquote.org
 $boost,site=en.wikinews.org
-$boost=3,site=en.wikispecies.org
+$boost=3,site=species.wikimedia.org
 $boost=2,site=wikileaks.org
 $boost,site=en.wikijunior.org
 $boost,site=en.wikivoyage.org
