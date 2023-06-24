@@ -1,6 +1,6 @@
 ﻿# Gogglesbyme
 
-!name: Wikiprojects only
+!name: Wikiprojects only Improved
 !description: Removes all none wikiprojects
 !public: true
 !author: Gerard36457
